@@ -1,0 +1,42 @@
+// Version: mangaJsonV1.0 Rev 0
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "멸룡사의 회귀, Regresión Incomparable del Cazador de Dragones",
+  "status": "Ongoing",
+  "author": "Mokma",
+  "artist": "N/A",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Umat manusia berada di ambang kehancuran akibat invasi naga. Sang pahlawan, seorang pembunuh naga terakhir, akhirnya gugur dalam pertempuran final melawan Raja Naga. Namun, alih-alih mati, ia mendapati dirinya terbangun di masa lalu, kembali ke masa akademi dengan ingatan dan pengalamannya yang utuh. Kini, ia bersumpah untuk mengubah takdir dunia dan membasmi setiap naga dengan kekuatan absolutnya.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Akhir dan Awal yang Baru",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/1/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/1/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/1/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/1/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Akademi Pahlawan",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/2/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/2/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/2/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/chapters/a-dragonslayers-peerless-regression/2/004.jpg"
+      ]
+    }
+  ]
+}
