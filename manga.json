@@ -1,0 +1,45 @@
+// manga.json V1.0 Rev 0
+{
+  "manga_id": "drg-plr-001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": ["Return of the Peerless Dragon Slayer", "Yongsa Regressing as a Dragon Slayer"],
+  "status": "Ongoing",
+  "author": "K-Fiction Studio",
+  "artist": "Artisan Guild",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 9.6,
+  "synopsis": "Setelah mengorbankan segalanya untuk mengalahkan Raja Naga Kuno, sang pahlawan terkuat menemui ajalnya. Namun, alih-alih beristirahat dalam damai, ia terbangun di masa lalu saat ia masih menjadi seorang rekrutan akademi biasa. Dengan ingatan, pengalaman, dan teknik pedang pembunuh naga dari kehidupan masa lalunya, ia bertekad untuk mengubah takdir dunia dan menyelamatkan orang-orang yang sebelumnya gagal ia lindungi.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/drg-plr-001.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian Sang Pahlawan",
+      "cbz_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/cbz/drg-plr-001/chapter-01.cbz",
+      "image_links": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-01/001.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-01/002.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-01/003.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-01/004.webp"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kembali ke Titik Awal",
+      "cbz_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/cbz/drg-plr-001/chapter-02.cbz",
+      "image_links": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-02/001.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-02/002.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-02/003.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-02/004.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/images/drg-plr-001/ch-02/005.webp"
+      ]
+    }
+  ]
+}
